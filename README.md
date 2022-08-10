@@ -1,1 +1,1 @@
-# Voron V2.4 V2.3992 350mm
+# Voron V2.4 350mm
